@@ -1,4 +1,4 @@
-# Recipe management system API
+# DOCTOR BOOKING APP API
 
 ## Frameworks and language used:
 -  Spring Boot
